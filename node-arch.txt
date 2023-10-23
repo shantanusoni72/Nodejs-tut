@@ -1,0 +1,7 @@
+Nodejs architecture
+
+- Event Queue
+- Event Loop 
+	- Blocking Op (Sync)
+	- Non-Blocking Op (Async)
+- Thread Pool
